@@ -118,6 +118,7 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  margin-top:30px;
 }
 
 // Specify the color of the selection
@@ -266,8 +267,11 @@ nav {
   }
 
   .read-more {
+    font-family: $Vazir;
     text-transform: uppercase;
     font-size: 15px;
+    margin-top: 30px;
+    display:block;
   }
 }
 
