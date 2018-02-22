@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: درباره من
 permalink: /about/
 ---
 
-Some information about you!
+محسن میرزاخانی، مهندس الکترونیک و علاقه مند به برنامه نویسی .مدت هاست از رشته تخصصی خودم دورم و در عوض درو حوضه تولید
+نرم افزار فعالیت می کنم . از بین حوزه های نرم افزاری که تا حالا در اونها کار کردم طراحی بک اند ، حوزه ی مورد علاقه منه و کار در این
+حوزه رو دوست دارم.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
